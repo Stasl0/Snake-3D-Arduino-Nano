@@ -4,6 +4,8 @@
 
 **Authors:** Stanisław Rybak and Jan Tchórzewski
 
+## [Risc V version](https://github.com/Jtchorz/Snake_in_3D)
+
 ## Features
 
 * **Full 3D Movement:** Navigate the snake in all 3 dimensions using a custom 7-button controller.
@@ -47,7 +49,7 @@ The buttons use the internal pull-up resistors (`INPUT\_PULLUP`). Wire them betw
 
 ## Video and Photo
 
-The old version on the detek board: https://www.youtube.com/watch?v=iVT-P0FXzsE
+The old version on the Risk V board: https://www.youtube.com/watch?v=iVT-P0FXzsE
 
 <img width="1542" height="2047" alt="download" src="https://github.com/user-attachments/assets/cdc5c6ce-4aa4-4e5c-bec4-51e23d385a68" />
 
