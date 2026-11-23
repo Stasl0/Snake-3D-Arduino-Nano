@@ -4,7 +4,9 @@
 
 **Authors:** Stanisław Rybak and Jan Tchórzewski
 
-## [Risc V version](https://github.com/Jtchorz/Snake_in_3D)
+[Risc V version](https://github.com/Jtchorz/Snake_in_3D)
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/5104b700-f086-4bc4-a9b7-328154092cf1" />
+
 
 ## Features
 
