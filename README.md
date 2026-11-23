@@ -49,4 +49,8 @@ The buttons use the internal pull-up resistors (`INPUT\_PULLUP`). Wire them betw
 
 This project is licensed under the CC BY-NC 4.0 License.
 
+## Video
+
+Old version on detek board: https://www.youtube.com/watch?v=iVT-P0FXzsE
+
 <img width="1542" height="2047" alt="download" src="https://github.com/user-attachments/assets/cdc5c6ce-4aa4-4e5c-bec4-51e23d385a68" />
